@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Build artifacts
+target/
+*.class
+
+# IDE configs (optional, add if you use these)
+.idea/
+*.iml
+.vscode/
+
+# OS-specific metadata
+__MACOSX/
+
+# Other
+*.log
+
