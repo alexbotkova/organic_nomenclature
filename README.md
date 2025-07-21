@@ -1,4 +1,4 @@
-# Java Chemical Nomenclature System 
+# Organic Nomenclature
 
 This is a Java-based application for parsing and naming simple organic molecules using Czech nomenclature conventions. It includes a graphical interface for molecule input and generates systematic names in Czech.
 
